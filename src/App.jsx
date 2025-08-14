@@ -38,7 +38,8 @@ function App() {
 
   return (
     <>
-      <h1>Welcome to Dhanisha's super stressfull countdown</h1>
+      <h1>Welcome to Dhanisha's anxiety inducing countdown</h1>
+      <h3>😩😩😩</h3>
       <div className="card">
         <h1 style={{ fontSize: "3rem" }}>{getEmoji()}</h1>
         <h2>5-Minute Countdown</h2>
